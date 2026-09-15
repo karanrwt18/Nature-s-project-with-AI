@@ -1025,10 +1025,6 @@ footer span {
 
 @media (max-width: 900px) {
 
-    nav {
-        display: none;
-    }
-
     .hero-card {
         display: none;
     }
@@ -1059,16 +1055,35 @@ footer span {
 
 @media (max-width: 600px) {
 
+    .navbar {
+        position: absolute;
+        padding: 18px 20px;
+    }
+
+    nav {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+    }
+
+    nav a {
+        font-size: 11px;
+    }
+
     .hero {
+        width: 100%;
+        min-height: 100vh;
+        padding: 105px 25px 80px;
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: center;
+        background-position: center center;
+        overflow: hidden;
     }
 
     .cta {
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: center;
+        background-position: center center;
     }
 
     .navbar {
