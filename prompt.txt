@@ -1,0 +1,119 @@
+Create a premium, modern, cinematic Nature website called **WILDORA — Into The Wild**.
+
+### Design
+
+* Luxury dark-green nature theme
+* High-quality cinematic mountain, forest, ocean and wildlife imagery
+* Modern glassmorphism elements
+* Premium typography
+* Strong visual hierarchy
+* Smooth and attractive UI
+* Responsive design for desktop, tablet and mobile
+* Website should feel like a professional nature/travel brand website
+
+### Sections
+
+1. **Navbar**
+
+   * WILDORA logo
+   * Home
+   * Discover
+   * Wildlife
+   * About
+   * Explore button
+
+2. **Hero Section**
+
+   * Full-screen cinematic forest background
+   * Large heading: "Discover The Beauty Of Nature"
+   * Short description
+   * "Explore Nature" and "Learn More" buttons
+   * Floating glass card saying "Pure Nature — Feel the wild"
+
+3. **Nature Introduction**
+
+   * Heading about the beauty of Earth
+   * Nature description
+   * Large mountain image
+
+4. **Statistics**
+
+   * 80% Earth Covered By Water
+   * 8.7M Species On Earth
+   * 195 Countries
+   * 4.6B Years Of Earth
+
+5. **Discover Nature**
+
+   * Three large cards:
+
+     * Mountains
+     * Forests
+     * Oceans
+   * Large images with dark gradient overlays
+   * Beautiful hover effects
+
+6. **Wildlife Section**
+
+   * Large wildlife image
+   * Heading: "Life Beyond Human Eyes"
+   * Description
+   * Explore Wildlife button
+
+7. **Quote Section**
+
+   * Large quotation
+   * "Look deep into nature, and then you will understand everything better."
+   * Author name
+
+8. **Final CTA**
+
+   * Nature background
+   * Heading: "There is no Planet B."
+   * Environmental message
+   * Start The Journey button
+
+9. **Footer**
+
+   * WILDORA logo
+   * "Explore • Respect • Protect"
+   * Copyright
+
+### Animation
+
+Make the website highly animated but still premium and smooth.
+
+Use **CSS animations only**:
+
+* Hero background slow cinematic zoom
+* Hero text reveal animation
+* Navbar slide-down animation
+* Floating glass card
+* Floating glowing orbs
+* Moving light effects
+* Glowing green text
+* Pulsing CTA buttons
+* Image zoom on hover
+* Nature cards lift and slightly rotate on hover
+* Card content moves upward on hover
+* Statistics pulse animation
+* Quote floating animation
+* CTA background zoom animation
+* Smooth hover transitions
+* Subtle glowing effects
+* Animations should feel natural, not childish or excessive
+
+### Technical Requirements
+
+* Use **HTML5 + CSS3 only**
+* **NO JavaScript**
+* Keep HTML and CSS in separate files:
+
+  * `index.html`
+  * `style.css`
+* Use clean, beginner-friendly code
+* Use CSS Grid and Flexbox
+* Add responsive media queries
+* Make the website visually impressive and professional
+* Do not use unnecessary libraries or frameworks
+* Code should work directly after opening `index.html`
