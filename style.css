@@ -113,9 +113,8 @@ nav a:hover::after {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
 }
-
-
 
 
 /* HERO LIGHT */
@@ -709,11 +708,9 @@ nav a:hover::after {
     background-size: cover;
 
     background-position: center;
+    background-repeat: no-repeat;
 
     overflow: hidden;
-
-    animation:
-        ctaZoom 7s infinite alternate ease-in-out;
 }
 
 .cta-content {
@@ -1061,6 +1058,18 @@ footer span {
 
 
 @media (max-width: 600px) {
+
+    .hero {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .cta {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
 
     .navbar {
         padding: 20px;
